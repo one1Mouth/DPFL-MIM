@@ -1,0 +1,15 @@
+python main-cl-dp.py -go 09+11+001 -gr 500 -ls 1 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+002 -gr 500 -ls 2 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+003 -gr 500 -ls 3 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+004 -gr 500 -ls 5 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+005 -gr 500 -ls 7 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+006 -gr 500 -ls 10 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+007 -gr 500 -ls 15 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+008 -gr 500 -ls 20 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+009 -gr 500 -ls 35 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+010 -gr 500 -ls 50 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+011 -gr 500 -ls 100 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+012 -gr 500 -ls 150 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+013 -gr 500 -ls 200 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+014 -gr 500 -ls 300 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
+python main-cl-dp.py -go 09+11+015 -gr 500 -ls 500 -dp 1 -dps 2 -lr 0.1 -slr 1000 -bsr 1.0 -data MNIST -nc 500 -jr 0.2 -dpdgr 0 -sdba 0 -sdbl 0 -tl 0.5
