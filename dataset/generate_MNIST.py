@@ -99,7 +99,7 @@ if __name__ == "__main__":
     # partition = 'pat'  # 分片 balance = Ture
     need_server_testset = True
     num_clients = 500
-    dir_alpha = 0.6  # Dir参数，如果是IID/Pat，这个参数无所谓
+    dir_alpha = 0.3  # Dir参数，如果是IID/Pat，这个参数无所谓
     class_per_client = 2  # Pat参数，如果是IID/Dir，这个参数无所谓
 
     generate_dataset(dir_path, num_clients, niid, balance, partition, class_per_client, dir_alpha, need_server_testset)
